@@ -1,0 +1,7 @@
+development:
+
+  adapter: postgresql
+  encoding: unicode
+  pool: 5
+  database: hello_app
+  host: 127.0.0.1
